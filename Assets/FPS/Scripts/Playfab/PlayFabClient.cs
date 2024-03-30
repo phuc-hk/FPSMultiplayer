@@ -19,8 +19,9 @@ public class PlayFabClient : MonoBehaviour
     private byte[] enemyStatus;
     private bool startedConnectionRequest = false;
     private bool isConnected = false;
+    static public string matchAddress = "";
+    static public ushort matchPort = 0;
 
-   
 
     void Start()
     {
@@ -31,7 +32,7 @@ public class PlayFabClient : MonoBehaviour
         }
         else
         {
-            RequestMultiplayerServer(); // MULTIPLAYER-SERVER-ONLY
+            //RequestMultiplayerServer(); // MULTIPLAYER-SERVER-ONLY
             ConnectToServer(matchAddress, matchPort);
         }
     }
@@ -151,8 +152,7 @@ public class PlayFabClient : MonoBehaviour
         Debug.Log(error.ErrorMessage);
     }
 
-    static public string matchAddress = "";
-    static public ushort matchPort = 0;
+
 
     private void ConnectToServer(string address, ushort port)
     {
