@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190299701177",
+    "project_id": "fps-multiplayer-21e38",
+    "storage_bucket": "fps-multiplayer-21e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190299701177:android:fa4f6df1db07d227960068",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ShootingMultiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtJUcw3oTOpPBmU0Wew9OlYbkHKd20mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
