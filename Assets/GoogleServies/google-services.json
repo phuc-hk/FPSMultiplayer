@@ -12,7 +12,20 @@
           "package_name": "com.DefaultCompany.ShootingMultiplayer"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "190299701177-8q9185p0jp4409ht9emkhqj2rq5jinbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.ShootingMultiplayer",
+            "certificate_hash": "23f968b65d243986f820d38917135650e0862968"
+          }
+        },
+        {
+          "client_id": "190299701177-uhm7dqlm193970mcu69b4f4cendt2bqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAPtJUcw3oTOpPBmU0Wew9OlYbkHKd20mk"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190299701177-uhm7dqlm193970mcu69b4f4cendt2bqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
