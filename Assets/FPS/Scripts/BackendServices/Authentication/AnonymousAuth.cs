@@ -51,6 +51,6 @@ public class AnonymousAuth : MonoBehaviour
     public void QuestLoginSuccess()
     {
         loginMessage.gameObject.SetActive(true);
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(1);
     }
 }
