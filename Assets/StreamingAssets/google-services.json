@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190299701177",
+    "firebase_url": "https://fps-multiplayer-21e38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fps-multiplayer-21e38",
+    "storage_bucket": "fps-multiplayer-21e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190299701177:android:fa4f6df1db07d227960068",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ShootingMultiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190299701177-8q9185p0jp4409ht9emkhqj2rq5jinbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.ShootingMultiplayer",
+            "certificate_hash": "23f968b65d243986f820d38917135650e0862968"
+          }
+        },
+        {
+          "client_id": "190299701177-uhm7dqlm193970mcu69b4f4cendt2bqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtJUcw3oTOpPBmU0Wew9OlYbkHKd20mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190299701177-uhm7dqlm193970mcu69b4f4cendt2bqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
